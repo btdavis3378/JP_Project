@@ -1,7 +1,7 @@
 /*
-  File: Item.java
+  File: Main.java
   By:   Brandon Davis
-  Date: 9/29/2018
+  Date: 12/6/2018
   Description: Main class that demonstrates the program
  */
 
