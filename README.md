@@ -31,4 +31,4 @@ Developer Brandon Davis, COP 3003 - CRN 80601, Fall 2018
 
 ## License
 
-This project was made for a programming course and for educational uses.
+This project was made for a programming course and is for educational uses.
